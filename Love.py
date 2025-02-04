@@ -11,6 +11,10 @@ love.color("red")
 love.speed(2)
 
 # Function to draw a heart
+
+# Function to draw a heart
+
+# Function to draw a heart
 def draw_heart():
     love.begin_fill()
     love.left(50)
