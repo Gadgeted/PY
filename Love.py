@@ -41,4 +41,5 @@ love.color("black")
 love.write("I Love You", align="center", font=("Arial", 24, "bold"))
 
 # Keep the window open
+# to keep the output running 
 turtle.done()
